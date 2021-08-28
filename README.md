@@ -1,2 +1,3 @@
-# README.md
-First Project
+# Hello World
+
+This is a readme for our first project!
